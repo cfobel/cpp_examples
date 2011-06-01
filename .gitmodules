@@ -22,3 +22,6 @@
 [submodule "vector"]
 	path = vector
 	url = https://github.com/cfobel/cpp_vector.git
+[submodule "pugixml_xpath"]
+	path = pugixml_xpath
+	url = https://github.com/cfobel/cpp_pugixml_xpath.git
