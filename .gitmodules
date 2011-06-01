@@ -1,0 +1,24 @@
+[submodule "iterators"]
+	path = iterators
+	url = https://github.com/cfobel/cpp_iterators.git
+[submodule "log4cpp"]
+	path = log4cpp
+	url = https://github.com/cfobel/cpp_log4cpp.git
+[submodule "pugixml"]
+	path = pugixml
+	url = https://github.com/cfobel/cpp_pugixml.git
+[submodule "simple_serialize"]
+	path = simple_serialize
+	url = https://github.com/cfobel/cpp_simple_serialize.git
+[submodule "std_set"]
+	path = std_set
+	url = https://github.com/cfobel/cpp_std_set.git
+[submodule "struct"]
+	path = struct
+	url = https://github.com/cfobel/cpp_struct.git
+[submodule "upper_lower_bound"]
+	path = upper_lower_bound
+	url = https://github.com/cfobel/cpp_upper_lower_bound.git
+[submodule "vector"]
+	path = vector
+	url = https://github.com/cfobel/cpp_vector.git
