@@ -28,3 +28,6 @@
 [submodule "templated_factory"]
 	path = templated_factory
 	url = https://github.com/cfobel/cpp_templated_factory.git
+[submodule "allocators"]
+	path = allocators
+	url = https://github.com/cfobel/cpp_allocators.git
