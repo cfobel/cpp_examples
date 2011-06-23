@@ -25,3 +25,6 @@
 [submodule "pugixml_xpath"]
 	path = pugixml_xpath
 	url = https://github.com/cfobel/cpp_pugixml_xpath.git
+[submodule "templated_factory"]
+	path = templated_factory
+	url = https://github.com/cfobel/cpp_templated_factory.git
