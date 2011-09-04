@@ -31,3 +31,6 @@
 [submodule "allocators"]
 	path = allocators
 	url = https://github.com/cfobel/cpp_allocators.git
+[submodule "random_number_generator"]
+	path = random_number_generator
+	url = https://github.com/cfobel/cpp___random_number_generator.git
